@@ -4,7 +4,7 @@ This Node.js script estimates gas costs for transactions on the Linea network us
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/yourusername/your-repo-name.git` and navigate to the directory: `cd your-repo-name`.
+1. Clone the repository: `git clone https://github.com/snwlprdgthb/linea_estimateGas.git` and navigate to the directory: `cd linea_estimateGas`.
 2. Install dependencies: `npm install`.
 
 ## Configuration
